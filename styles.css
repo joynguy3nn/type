@@ -1,0 +1,39 @@
+/* Type */
+
+body {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	line-height: 1;
+    font-size: 2em;
+    max-width: 50em;
+    text-align: center;
+    border-left: 1em;
+    border-right: 1em;
+}
+
+
+h1{font-family: "AppleGothic", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3em;
+  transform: scaleX(4);
+  color: red;
+
+
+}
+
+
+h2{
+	color: #6f1a1a;
+	text-align: left;
+	text-shadow: 3px 2px red;
+	font-size: 5em;
+	position: absolute;
+	transform: rotate(180deg);
+}
+p{
+	height: 10em;
+}
+   
+ 
